@@ -11,6 +11,9 @@ __pycache__/
 #Pycharm projects
 .idea/
 
+#GIMP Image Format
+*.xcf
+
 # Distribution / packaging
 .Python
 env/
